@@ -1,0 +1,12 @@
+Command line interface for the webiste musicforprogramming.net
+
+Using the little script, you can listen to/download the relaxing tunes of the aforementioned site 
+without ever having to leave the terminal.
+
+IMPORTANT:
+
+Supported OS: Linux 
+Requirements: Python intrepeter (2.7.x)
+              wget (for downloading episodes)
+              mpg321 (for streaming/decoding music)
+              An internet connection
