@@ -6,7 +6,9 @@ without ever having to leave the terminal.
 IMPORTANT:
 ==========
 
-Supported OS: Linux 
+Supported OS(s): Will work on all most all Linux Distributions with the following requirements
+                 satisfied.
+
 Requirements: Python intrepeter (2.7.x)
               wget (for downloading episodes)
               mpg321 (for streaming/decoding music)
